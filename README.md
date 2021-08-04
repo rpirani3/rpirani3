@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Rehman
-- 👀 I’m interested in becoming more technical.
+- 👋 Hi, I’m Rehman and I am a product manager. 
 
 <!---
 rpirani3/rpirani3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
